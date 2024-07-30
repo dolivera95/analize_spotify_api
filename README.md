@@ -10,3 +10,6 @@ Con toda esta información poder exportarlo como CSV y utilizarlo para realizar 
 - Las canciones más populares de cada artista
 - Los albumnes con mayor duración en minutos
 - Cantidad de albumnes, sencillos y compilaciones de cada artista
+
+## Link del dashboard en Power Bi:
+[Dashboard Power Bi](https://app.powerbi.com/view?r=eyJrIjoiM2VlOTQ1NjQtZmU5NS00MzM1LWExNmYtN2NjZGQzNjNjYmFmIiwidCI6IjRmZjM4NTQ0LWY1YzEtNDRiZS1hZmNiLWU2ZmU1MzRkYTdiNCIsImMiOjR9)
